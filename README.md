@@ -19,6 +19,9 @@ https://github.com/user-attachments/assets/1759f1bf-a0d0-409f-84d8-dde9409cfe6f
 
 [Download original sample](docs/samples/character-retargeting.mp4)
 
+## Quick Fix for UTF8 error (Windows)
+`Windows > System Properties > Environment Variables > add variable "PYTHONUTF8" value "1"`
+
 ## Install and run
 
 1. Install [Git for Windows](https://git-scm.com/download/win). Open **Command Prompt**
