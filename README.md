@@ -32,7 +32,9 @@ https://github.com/user-attachments/assets/1759f1bf-a0d0-409f-84d8-dde9409cfe6f
    cd toyxyz_RGBMocap
    ```
 
-2. Download and install the required runtimes, Blender and FFmpeg:
+2. From the repo root, run the standard setup command. It will verify Python 3.10,
+   create the local `venv` if needed, activate it, and install the Windows requirements once also
+   Download and install the required runtimes, Blender and FFmpeg:
 
    ```cmd
    install.cmd
