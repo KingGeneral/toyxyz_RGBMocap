@@ -1,5 +1,6 @@
 # Local environments and generated build products
-.venv*/
+venv/
+.venv*
 .bootstrap/
 .runtime/
 .setup/
